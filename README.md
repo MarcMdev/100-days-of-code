@@ -10,3 +10,6 @@ My first round of 100DaysOfCode log
 * **Day 03. Sunday September 23nd.**
 	- did some challenges on the basic JavaScript section of www.freecodecamp.org.
 	- Struggling with the 3rd challenge at Project Euler
+* **Day 03. Sunday September 23nd.**
+	- more challenges on the basic JavaScript section of www.freecodecamp.org.
+	- tried ou some challenges at codewars.
