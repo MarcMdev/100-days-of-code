@@ -16,4 +16,5 @@ My first round of 100DaysOfCode log
 * **Day 05. Tuesday September 25th.**
 	- more challenges on the basic JavaScript section of www.freecodecamp.org.
 	- worked on my Small Business's website.
-	
+* **Day 06. Wednesday September 26th.**
+	- Still working fully on the clothing store's page. Trying to add the JS parts of it.
