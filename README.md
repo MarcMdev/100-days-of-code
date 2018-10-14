@@ -7,4 +7,4 @@ My first round of 100DaysOfCode log
 * **Day 02 - Saturday October 13th.**
 	- Wes Bos's 30 Days of JavaScript Second Exercise at JavaScript30.com.
 	- Day 3 video tutorial of 30days of CSS from FreeCodeCamps's youtube channel.
-	-Finished Basic JavaScrip section at FreeCodeCamp.org
+	- Finished Basic JavaScrip section at FreeCodeCamp.org
